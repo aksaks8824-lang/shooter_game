@@ -188,3 +188,5 @@ while run:
         ship.rect.x = win_width // 2
     
     time.delay(FPS)
+
+    print('hello world')
